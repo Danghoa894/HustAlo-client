@@ -1,0 +1,10 @@
+{
+  "description": "Streamline internal communication with a real-time messaging and voice/video calling app designed for companies, featuring a user-friendly interface in Vietnamese.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
