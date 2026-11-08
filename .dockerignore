@@ -1,0 +1,13 @@
+# .dockerignore — build context là gốc HustAlo-client (development_guide.md §9.2)
+node_modules
+dist
+.git
+.github
+.env*
+!.env.example
+coverage
+playwright-report
+test-results
+lighthouse-report
+.lighthouseci
+.claude

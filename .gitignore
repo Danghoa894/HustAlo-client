@@ -1,0 +1,10 @@
+node_modules/
+.env*
+!.env.example
+dist/
+coverage/
+playwright-report/
+test-results/
+lighthouse-report/
+.lighthouseci/
+*.tsbuildinfo
